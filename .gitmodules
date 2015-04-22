@@ -1,0 +1,3 @@
+[submodule "apps/shell"]
+	path = apps/shell
+	url = https://github.com/webianproject/shell
